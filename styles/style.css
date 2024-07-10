@@ -99,6 +99,9 @@ p{
 .inspiration-container>p{
     margin-bottom: 48px;
 }
+.video{
+    border-radius: 16px;
+}
 /* terget section  */
 .skilles-container{
     display: flex;
