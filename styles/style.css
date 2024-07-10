@@ -106,7 +106,7 @@ p{
 .skilles-container{
     display: flex;
     gap: 25px;
-    margin-top: 120px;
+    margin-top: 50px;
 }
 .skils{
     width: 364px;
@@ -114,6 +114,23 @@ p{
     border-radius: 16px;
     background: rgba(255, 76, 30, 0.05);
     padding: 40px;
+}
+.skils>h1{
+    font-size: 24px;
+    font-weight: 800;
+    margin: 20px auto;
+}
+.btn-skils{
+    font-size: 16px;
+    font-weight: 700;
+    width: 284px;
+    height: 19px;
+    margin-top: 20px;
+}
+.btn-skils>a{
+  text-decoration: none;
+  border-bottom: 2px solid rgb(13, 19, 33);
+  color:rgb(13, 19, 33);
 }
 
 /* feedback section  */
